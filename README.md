@@ -3,7 +3,6 @@
 This is a simple **Todo List Application** built using the **Flask** web framework. The application allows users to manage their tasks (create, update, delete, and toggle completion status) through both a web interface and a RESTful API.
 
 ### Video Clip : https://youtu.be/PbS4loPp1Is
-Github URL : 
 
 ---
 ## 2. Environments of the Software Development and Running
