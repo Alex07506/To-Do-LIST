@@ -183,7 +183,7 @@ The following table represents the specific division of labor for our team to co
      – Integrate pagination metadata in responses:  
     ```json
     {
-      "tasks": [...],
+      "tasks": [ ... ],
       "pagination": {
         "total": 1500,
         "page": 2,
