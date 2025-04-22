@@ -145,7 +145,7 @@ The Portion is 20%, 20%, 20%, 20%, 20%.
 | Lin (P2320443)     | Database              | – Designed MySQL database schema (including index optimization)<br>– Implemented database migration script (`init_db()` function)<br>– Configured query performance monitoring (slow-query log analysis) |
 | Alex (P2320265)    | DevOps & Testing      | – Set up GitHub Actions CI pipeline<br>– Wrote pytest test suite (covering 90% of API endpoints)<br>– Configured Docker development environment (MySQL + Flask containerization) |
 ---
-# 10. Twelve-Week Development Plan
+# 10. Twelve-Week Development Plan ( Schedule )
 
 ## Overview
 
