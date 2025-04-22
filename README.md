@@ -263,6 +263,7 @@ The following table represents the specific division of labor for our team to co
 
 ## 11. Purpose of the software 
 ### We choose Agile software development process
+---
 ### Why Agile (vs. Waterfall)
 
 ### 1. Precise Response to Evolving Requirements  
