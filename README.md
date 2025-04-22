@@ -135,6 +135,7 @@ This responsive interface is enhanced with Bootstrap 5, ensuring compatibility a
 ---
 ## 9. Team Responsibilities (Week 5)
 The following table represents the specific division of labor for our team to complete this project within five weeks：
+The Portion is 20%, 20%, 20%, 20%, 20%.
 
 | Member (ID)       | Role                  | Key Contributions Completed                                                                 |
 |--------------------|-----------------------|---------------------------------------------------------------------------------------------|
